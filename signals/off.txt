@@ -1,0 +1,219 @@
+Data: 89 7e 05 08
+
+-----CODE START-----
+// [WRITE THE DEVICE NAME HERE]
+rf.register_Receiver(
+        RFMOD_TRIBIT, // mod
+        7936, // initseq
+        0, // lo_prefix
+        0, // hi_prefix
+        0, // first_lo_ign
+        266, // lo_short
+        736, // lo_long
+        0, // hi_short (0 => take lo_short)
+        0, // hi_long  (0 => take lo_long)
+        240, // lo_last
+        7056, // sep
+        32  // nb_bits
+);
+-----CODE END-----
+
+Data: 89 7e 05 08
+
+-----CODE START-----
+// [WRITE THE DEVICE NAME HERE]
+rf.register_Receiver(
+        RFMOD_TRIBIT, // mod
+        7936, // initseq
+        0, // lo_prefix
+        0, // hi_prefix
+        0, // first_lo_ign
+        258, // lo_short
+        744, // lo_long
+        0, // hi_short (0 => take lo_short)
+        0, // hi_long  (0 => take lo_long)
+        252, // lo_last
+        7936, // sep
+        32  // nb_bits
+);
+-----CODE END-----
+
+Data: 89 7e 05 08
+
+-----CODE START-----
+// [WRITE THE DEVICE NAME HERE]
+rf.register_Receiver(
+        RFMOD_TRIBIT, // mod
+        7936, // initseq
+        0, // lo_prefix
+        0, // hi_prefix
+        0, // first_lo_ign
+        266, // lo_short
+        734, // lo_long
+        0, // hi_short (0 => take lo_short)
+        0, // hi_long  (0 => take lo_long)
+        252, // lo_last
+        7936, // sep
+        32  // nb_bits
+);
+-----CODE END-----
+
+Data: 89 7e 05 08
+
+-----CODE START-----
+// [WRITE THE DEVICE NAME HERE]
+rf.register_Receiver(
+        RFMOD_TRIBIT, // mod
+        7952, // initseq
+        0, // lo_prefix
+        0, // hi_prefix
+        0, // first_lo_ign
+        254, // lo_short
+        746, // lo_long
+        0, // hi_short (0 => take lo_short)
+        0, // hi_long  (0 => take lo_long)
+        248, // lo_last
+        7944, // sep
+        32  // nb_bits
+);
+-----CODE END-----
+
+Data: 89 7e 05 08
+
+-----CODE START-----
+// [WRITE THE DEVICE NAME HERE]
+rf.register_Receiver(
+        RFMOD_TRIBIT, // mod
+        7936, // initseq
+        0, // lo_prefix
+        0, // hi_prefix
+        0, // first_lo_ign
+        260, // lo_short
+        746, // lo_long
+        0, // hi_short (0 => take lo_short)
+        0, // hi_long  (0 => take lo_long)
+        252, // lo_last
+        7936, // sep
+        32  // nb_bits
+);
+-----CODE END-----
+
+Data: 89 7e 05 08
+
+-----CODE START-----
+// [WRITE THE DEVICE NAME HERE]
+rf.register_Receiver(
+        RFMOD_TRIBIT, // mod
+        7940, // initseq
+        0, // lo_prefix
+        0, // hi_prefix
+        0, // first_lo_ign
+        250, // lo_short
+        752, // lo_long
+        0, // hi_short (0 => take lo_short)
+        0, // hi_long  (0 => take lo_long)
+        248, // lo_last
+        7940, // sep
+        32  // nb_bits
+);
+-----CODE END-----
+
+Data: 00 6a a9 55 66 55 95
+
+-----CODE START-----
+// [WRITE THE DEVICE NAME HERE]
+rf.register_Receiver(
+        <unmanaged encoding>, // mod
+        65535, // initseq
+        0, // lo_prefix
+        0, // hi_prefix
+        0, // first_lo_ign
+        252, // lo_short
+        746, // lo_long
+        0, // hi_short (0 => take lo_short)
+        0, // hi_long  (0 => take lo_long)
+        232, // lo_last
+        7960, // sep
+        50  // nb_bits
+);
+-----CODE END-----
+
+Data: 89 7e 05 08
+
+-----CODE START-----
+// [WRITE THE DEVICE NAME HERE]
+rf.register_Receiver(
+        RFMOD_TRIBIT, // mod
+        7936, // initseq
+        0, // lo_prefix
+        0, // hi_prefix
+        0, // first_lo_ign
+        260, // lo_short
+        748, // lo_long
+        0, // hi_short (0 => take lo_short)
+        0, // hi_long  (0 => take lo_long)
+        248, // lo_last
+        7936, // sep
+        32  // nb_bits
+);
+-----CODE END-----
+
+Data: 00 6a a9 55 66 55 95
+
+-----CODE START-----
+// [WRITE THE DEVICE NAME HERE]
+rf.register_Receiver(
+        <unmanaged encoding>, // mod
+        65535, // initseq
+        0, // lo_prefix
+        0, // hi_prefix
+        0, // first_lo_ign
+        252, // lo_short
+        744, // lo_long
+        0, // hi_short (0 => take lo_short)
+        0, // hi_long  (0 => take lo_long)
+        252, // lo_last
+        7936, // sep
+        50  // nb_bits
+);
+-----CODE END-----
+
+Data: 89 7e 05 08
+
+-----CODE START-----
+// [WRITE THE DEVICE NAME HERE]
+rf.register_Receiver(
+        RFMOD_TRIBIT, // mod
+        7940, // initseq
+        0, // lo_prefix
+        0, // hi_prefix
+        0, // first_lo_ign
+        260, // lo_short
+        742, // lo_long
+        0, // hi_short (0 => take lo_short)
+        0, // hi_long  (0 => take lo_long)
+        240, // lo_last
+        7940, // sep
+        32  // nb_bits
+);
+-----CODE END-----
+
+Data: 89 7e 05 08
+
+-----CODE START-----
+// [WRITE THE DEVICE NAME HERE]
+rf.register_Receiver(
+        RFMOD_TRIBIT, // mod
+        7936, // initseq
+        0, // lo_prefix
+        0, // hi_prefix
+        0, // first_lo_ign
+        252, // lo_short
+        752, // lo_long
+        0, // hi_short (0 => take lo_short)
+        0, // hi_long  (0 => take lo_long)
+        252, // lo_last
+        7936, // sep
+        32  // nb_bits
+);
+-----CODE END-----
